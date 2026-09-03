@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/bygg-og-anlegg.html",
+      "destination": "/forsikringsmegler-bygg-anlegg",
+      "permanent": true
+    },
+    {
+      "source": "/bygg-og-anlegg",
+      "destination": "/forsikringsmegler-bygg-anlegg",
+      "permanent": true
+    }
+  ]
+}

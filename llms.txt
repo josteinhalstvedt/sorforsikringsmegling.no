@@ -31,7 +31,7 @@
 - Oppfølging: https://sorforsikringsmegling.no/oppfolging.html
 - Skaderådgivning: https://sorforsikringsmegling.no/skaderadgivning.html
 - Bransjer: https://sorforsikringsmegling.no/bransjer.html
-- Bygg og anlegg: https://sorforsikringsmegling.no/bygg-og-anlegg.html
+- Forsikringsmegler for bygg og anlegg: https://sorforsikringsmegling.no/forsikringsmegler-bygg-anlegg
 - Landbruk: https://sorforsikringsmegling.no/landbruk.html
 - Erfaring: https://sorforsikringsmegling.no/erfaring.html
 - Om oss: https://sorforsikringsmegling.no/om-oss.html
