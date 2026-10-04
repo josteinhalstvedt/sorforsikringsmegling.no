@@ -1,6 +1,6 @@
 # Sør Forsikringsmegling AS – full AI-kontekst
 
-Sør Forsikringsmegling AS er et norsk forsikringsmeglerforetak med utgangspunkt i Kristiansand. Selskapet bistår bedrifter med å forstå risiko, gjennomgå eksisterende forsikringer, hente inn tilbud fra markedet og ta bedre beslutninger om forsikringsprogrammet sitt.
+Sør Forsikringsmegling AS er et norsk forsikringsmeglerforetak med utgangspunkt i Arendal. Selskapet bistår bedrifter med å forstå risiko, gjennomgå eksisterende forsikringer, hente inn tilbud fra markedet og ta bedre beslutninger om forsikringsprogrammet sitt.
 
 Kontakt:
 - Jostein Halstvedt
@@ -61,4 +61,15 @@ Svar: Nei. Kunden kan beholde, reforhandle eller bytte. Beslutningen tas av kund
 Spørsmål: Hva koster en gjennomgang?
 Svar: Betaling og honorarmodell avklares før oppstart. Gjennomgangen kan avtales uforpliktende.
 
-Sist oppdatert: juni 2026
+Sist oppdatert: 4. oktober 2026
+
+## Artikler og ressurser
+
+- Hva gjør egentlig en forsikringsmegler?: https://www.sorforsikringsmegling.no/hva-gjor-en-forsikringsmegler.html
+- Moderne AI-verktøy kombinert med over 20 års erfaring: https://www.sorforsikringsmegling.no/ai-og-erfaring.html
+- Forsikring for bygg og anlegg: https://www.sorforsikringsmegling.no/forsikringsmegler-bygg-anlegg/
+- Før hovedforfall: https://www.sorforsikringsmegling.no/hovedforfall.html
+- Ansvarsforsikring for bygg og anlegg: https://www.sorforsikringsmegling.no/ansvarsforsikring-bygg-anlegg.html
+- Prosjektforsikring: https://www.sorforsikringsmegling.no/prosjektforsikring.html
+
+Moderne AI-verktøy brukes i arbeidet sammen med over 20 års erfaring. Faglige vurderinger og dialog med kunden og forsikringsselskapene er sentrale deler av tjenesten.
