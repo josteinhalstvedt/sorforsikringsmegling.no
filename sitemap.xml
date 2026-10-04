@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.sorforsikringsmegling.no/aktuelt.html</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://www.sorforsikringsmegling.no/bransjer.html</loc>
@@ -34,7 +34,7 @@
   </url>
   <url>
     <loc>https://www.sorforsikringsmegling.no/</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://www.sorforsikringsmegling.no/industri.html</loc>
@@ -78,11 +78,11 @@
   </url>
   <url>
     <loc>https://www.sorforsikringsmegling.no/llms.txt</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://www.sorforsikringsmegling.no/llms-full.txt</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://www.sorforsikringsmegling.no/ai-og-erfaring.html</loc>
@@ -98,10 +98,30 @@
   </url>
   <url>
     <loc>https://www.sorforsikringsmegling.no/prosjektforsikring.html</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://www.sorforsikringsmegling.no/hovedforfall.html</loc>
     <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.sorforsikringsmegling.no/cyberforsikring.html</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.sorforsikringsmegling.no/ansvarsforsikring.html</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.sorforsikringsmegling.no/personforsikring.html</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.sorforsikringsmegling.no/avbruddsforsikring.html</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.sorforsikringsmegling.no/transportforsikring.html</loc>
+    <lastmod>2026-10-05</lastmod>
   </url>
 </urlset>
