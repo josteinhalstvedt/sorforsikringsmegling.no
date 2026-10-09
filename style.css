@@ -17,3 +17,43 @@
 
 /* Forsikring gjort enkelt: artikler og oversikt */
 .simple-article .reading{max-width:800px}.simple-article .reading h1{font-size:clamp(2rem,5vw,3.4rem);line-height:1.15;margin-bottom:24px}.simple-article .reading h2{font-size:clamp(1.65rem,3vw,1.9rem);line-height:1.2;margin:34px 0 16px}.simple-article .reading p,.simple-article .reading ul,.simple-article .reading ol{margin-bottom:20px}.simple-article .reading ul,.simple-article .reading ol{padding-left:25px;color:var(--muted)}.simple-article .reading li{margin-bottom:10px}.simple-article .article-meta{border:0;padding:0;margin:0 0 30px}.simple-article .reading a:not(.btn){text-decoration:underline;text-underline-offset:3px}.simple-article .reading strong{color:var(--navy)}.simple-article .simple-tip{border-left:4px solid var(--gold);background:var(--cream);padding:22px 24px;margin:28px 0}.simple-article .simple-tip h2,.simple-article .article-cta h2{margin-top:0}.simple-article .simple-tip>:last-child{margin-bottom:0}.simple-origin{font-size:.9rem}.simple-paging{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;padding:20px 0;margin:24px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}.series-grid .card h3{font-size:1.6rem;line-height:1.2;margin-bottom:16px}.series-grid .card h3 a{margin:0;color:var(--navy);font-weight:inherit}.series-grid .card h3 a:hover{text-decoration:underline;text-underline-offset:3px}.series-grid .card .label{font-size:.76rem;color:var(--gold2)}.more-articles{margin-top:60px}.simple-topic-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-bottom:26px}.simple-topic-links a{display:block;padding:19px 20px;background:#fff;border:1px solid var(--line);color:var(--navy);font-weight:700}.simple-topic-links a:hover,.simple-topic-links a:focus-visible{border-color:var(--gold);text-decoration:underline;text-underline-offset:3px}.nav-links{gap:clamp(12px,1.6vw,26px)}@media(max-width:980px){.nav-links{gap:14px}}@media(max-width:700px){.simple-topic-links{grid-template-columns:1fr}.simple-article .simple-tip{padding:20px}.simple-article .bottom{flex-direction:column;gap:12px}.simple-paging{flex-direction:column}}
+
+/* Skandinavisk raadgivningsmiljo – designforslag oktober 2026. */
+:root{--navy:#293746;--navy2:#3b4a57;--gold:#8f795c;--gold2:#766247;--paper:#fbfaf8;--cream:#f2f1ee;--text:#293038;--muted:#5c646d;--line:#dededb;--max:1240px}
+body{font-family:"Segoe UI",Arial,sans-serif;line-height:1.65}
+h1,h2,h3,h4,.benefit h3,.card h3,.step h3{font-family:"Segoe UI",Arial,sans-serif;letter-spacing:-.035em;font-weight:650;line-height:1.18}
+.topbar{background:rgba(251,250,248,.98)}
+.nav-links{font-weight:550}
+.btn{border-radius:2px;box-shadow:none;font-weight:650}
+.btn-primary{background:var(--navy);box-shadow:none}
+.btn-primary:hover,.btn-primary:focus-visible{background:var(--navy2)}
+.hero{background:var(--paper)}
+.hero .container{border-bottom:1px solid var(--line)}
+.hero h1 span,.hero h1 .hero-line:last-child{color:var(--navy)}
+.hero .lead{color:#4c5863}
+.hero-article{background:transparent!important;border:0!important;border-left:1px solid var(--line)!important;box-shadow:none!important;padding:8px 0 8px 34px!important}
+.comparison-panel{background:transparent;border:0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:32px 0}
+.benefits{margin-top:0}
+.benefit-grid{box-shadow:none;background:transparent;border:0;border-bottom:1px solid var(--line)}
+.benefit{text-align:left}
+.icon{border:0;border-radius:0;display:block;width:auto;height:auto;margin:0 0 12px;color:var(--gold2)}
+.section-title:after{height:1px;width:100%;background:var(--line);margin-top:18px}
+.cards{gap:0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.card{background:transparent;border:0;border-right:1px solid var(--line);padding:25px 20px}
+.card:last-child{border-right:0}
+.card .card-icon{font-size:1.5rem;color:var(--gold2)}
+.soft{background:var(--cream)}
+.num{border-radius:2px}
+.case{background:transparent;border:0;border-top:1px solid var(--line)}
+.case div{padding:16px 0}
+.profile-img{border-radius:0}
+.check:before{border-radius:2px}
+.faq-grid{gap:0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.faq-grid .card{padding:24px}
+.cta{background:var(--navy);background-image:none}
+.page-hero{background:var(--navy)}
+.footer{background:var(--paper)}
+.simple-topic-links{gap:0}
+.simple-topic-links a{background:transparent;border-color:var(--line)}
+@media(max-width:980px){.hero-article{border-left:0!important;border-top:1px solid var(--line)!important;padding:24px 0!important}.cards{grid-template-columns:1fr 1fr}.card{border-bottom:1px solid var(--line)}}
+@media(max-width:600px){.cards,.faq-grid{grid-template-columns:1fr}.card,.faq-grid .card{border-right:0;padding:24px 0}.benefit{text-align:left}}
